@@ -1,6 +1,6 @@
-# rao-says
+# rao-say
 
-`rao-says` is a command-line tool that generates random ASCII bots, inspired by `cowsay`.
+`rao-say` is a command-line tool that generates random ASCII bots, inspired by `cowsay`.
 
 ## Installation
 
