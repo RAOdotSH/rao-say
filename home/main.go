@@ -3,8 +3,9 @@ package main
 import (
 	"fmt"
 	"os"
-	raosay "rao-says/bot"
 	"strings"
+
+	raosay "github.com/RAOdotSH/rao-say/bot"
 )
 
 func main() {
