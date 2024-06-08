@@ -1,0 +1,40 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build and distribution directories
+bin/
+dist/
+
+# Go module files
+go.sum
+go.work
+go.work.sum
+
+# Go workspace file
+.vscode/
+.idea/
+*.iml
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# GoReleaser output
+.release/
+
+# Dependency directories
+vendor/
