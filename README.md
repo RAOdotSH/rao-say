@@ -6,7 +6,7 @@
 
 ### Using Precompiled Binaries
 
-Download the latest release from the [GitHub Releases](https://github.com/your-username/rao-says/releases) page. Extract the archive and move the binary to a directory in your `PATH`.
+Download the latest release from the [GitHub Releases](https://github.com/RAOdotSH/rao-says/releases) page. Extract the archive and move the binary to a directory in your `PATH`.
 
 #### Linux
 
@@ -47,4 +47,5 @@ Download the latest release from the [GitHub Releases](https://github.com/your-u
 If you have Go installed, you can install the latest version of `rao-says` directly from the source:
 
 ```sh
-go install github.com/your-username/rao-says/home@latest
+go install github.com/RAOdotSH/rao-says/home@latest
+```
