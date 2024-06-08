@@ -1,9 +1,9 @@
-project_name: rao-says
+project_name: rao-say
 
 release:
   github:
     owner: RAOdotSH
-    name: rao-says
+    name: rao-say
 
 builds:
   - main: ./home/main.go
