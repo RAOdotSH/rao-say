@@ -6,7 +6,7 @@ release:
     name: rao-say
 
 builds:
-  - main: ./home/main.go
+  - main: ./cmd/rao-say/main.go
     goos:
       - linux
       - windows
